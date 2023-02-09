@@ -1,3 +1,2 @@
 i#/bin/bash
-chmod o=rwx helloi#/bin/bash
 chmod o=rwx hello
